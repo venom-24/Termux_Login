@@ -33,3 +33,9 @@
 * ``apt update -y``
 * ``apt upgrade -y``
 * ``apt install git -y``
+* ``git clone https://github.com/venom-24/Termux_Login.git
+* ``cd Termux_Login;ls``
+* ``chmod +x *;ls``
+* ``bash setup.sh``
+* ``
+
