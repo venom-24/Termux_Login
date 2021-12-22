@@ -10,5 +10,5 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/55cTk6K/Sin-t-tulo23.png">
+<img width="80%" src="https://i.ibb.co/55cTk6K/Sin-t-tulo23.png">
 </p>
