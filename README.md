@@ -8,7 +8,13 @@
 <img title="Hecho en mexico3" src="https://img.shields.io/badge/Escrito En-Bash-blue.svg">
 </p>
 
-
 <p align="center">
 <img width="80%" src="https://i.ibb.co/55cTk6K/Sin-t-tulo23.png">
+</p>
+
+<p align="center">
+<a href=https://github.com/venom-24><img title="github" src="https://img.shields.io/badge/VENOM-24-brightgreen?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://www.youtube.com/c/Venom24Termux"><img title="youtube" src="https://img.shields.io/badge/YouTube-VeNOM24-red?style=for-the-badge&logo=Youtube"></a>
 </p>
