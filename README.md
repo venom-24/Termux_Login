@@ -20,8 +20,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/venom-24"><img title="Followers" src="https://img.shields.io/github/followers/venom-24?color=blue&style=flat-square"></a> 
-<a href="https://github.com/venom-24"><img title="Stars" src="https://img.shields.io/github/stars/venom-24/Termux_Login?color=red&style=flat-square"></a>
-<a href="https://github.com/venom-24"><img title="Forks" src="https://img.shields.io/github/forks/venom-24/Termux_Login?color=red&style=flat-square">
+<a href="https://github.com/venom-24"><img title="Stars" src="https://img.shields.io/github/stars/venom-24/Termux_Login?color=blue&style=flat-square"></a>
+<a href="https://github.com/venom-24"><img title="Forks" src="https://img.shields.io/github/forks/venom-24/Termux_Login?color=blue&style=flat-square">
 </a> <a href="https://github.com/venom-24"><img title="Watching" src="https://img.shields.io/github/watchers/venom-24/Termux_Login?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
