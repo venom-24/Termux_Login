@@ -26,7 +26,7 @@
 * TERMUX
 ### Requerimientos :
 * Conexion a internet
-* 600 MB De Almacenamiento 
+* 520 MB De Almacenamiento 
 
 ## COMANDOS DE INSTALACION EN TERMUX:
 
