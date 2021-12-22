@@ -45,7 +45,7 @@
 <p align="center">
 <img width="50%" src="https://i.ibb.co/PZRvpgn/Sin-t-tulo67.png"/>
 <img width="48%" src="https://i.ibb.co/vk27c05/Sin-t-tulo66.png"/>
-<a href="https://www.youtube.com/c/Venom24Termux"><img width="80%" src="https://i.ibb.co/xzWwJ1x/Sin-t-tulo68.png" </a>
+<a href="https://m.youtube.com/playlist?list=PLpscnM9CpYLgI-lwRd-Nyw1uq98KmkPA2"><img width="80%" src="https://i.ibb.co/xzWwJ1x/Sin-t-tulo68.png" </a>
 </p>
 
 ## CONECTATE CON NOSOTROS:
